@@ -36,7 +36,7 @@ namespace Hausarbeit
         {
             InitializeComponent();
 
-
+            //Scaffold-DbContext "Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=Deutsch;Integrated Security=SSPI" 
             int count = 1;
             if (MyDataContext.mycultureinfo == "de-DE")
             {
