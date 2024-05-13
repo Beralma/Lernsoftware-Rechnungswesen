@@ -1,0 +1,42 @@
+Das Grundbuch, auch bekannt als Journal, listet alle Ereignisse im Unternehmen in einer geordneten Reihenfolge auf.
+Die Grundlage dafür sind Dokumente wie Rechnungen oder Quittungen.
+Die chronologische Auflistung soll dazu beitragen, dass die Behörden leichter daran arbeiten können, eventuelle Untersuchungen durchzuführen.
+
+Grundbuch
+Das Grundbuch, auch Journal oder Tagebuch genannt, ist ein Abschnitt der Buchhaltung, der alle geschäftlichen Ereignisse eines Unternehmens chronologisch dokumentiert. 
+
+Aktuell werden mindestens folgende Daten gespeichert:
+Datum, Vorgang, Vermerke, Konto- und Gegenkonto sowie der Betrag, basierend auf dem Stand der Bearbeitung. 
+
+Daher ist es möglich, alle geschäftlichen Aktivitäten durch den Beleg zurückzuverfolgen.
+Kassen-, Rechnungseingangs- und Rechnungsausgangsbücher sind Beispiele für Grundbücher.
+
+
+Inhalt des Grundbuchs
+Vor der Digitalisierung bestand die Buchhaltung tatsächlich aus mehreren physischen Büchern.
+Dieser Aspekt der elektronischen Buchführung ist etwas vernachlässigt worden, jedoch werden auch die verschiedenen Bücher immer noch durch zeitgemäße Software-Lösungen behandelt.
+Dies umfasst vor allem das Grundbuch, das Hauptbuch und zahlreiche Nebenbücher.
+
+Das Ziel des Grundbuchs besteht darin, alle Ereignisse im Geschäftsleben in chronologischer Reihenfolge aufzulisten.
+Außerdem sind Eröffnungs-, laufende-, vorbereitende- und Abschlussbuchungen enthalten.
+Die Idee, dass Unternehmen ihre Geschäftsvorfälle chronologisch organisieren, macht es den Behörden deutlich einfacher, Überprüfungen durchzuführen.
+Normalerweise müssen die Merkmale eines Unternehmensvorfalls im Grundbuch festgehalten werden:
+
+
+Datum
+Nummer des Belegs
+Habenkonto
+Sollkonto
+Betrag
+Buchungstext
+
+Beleg, Grundbuch und Hauptbuch
+Um das Grundbuch überhaupt zu erstellen, ist es notwendig, Belege für alle Geschäftsvorfälle aufzubewahren.
+Es kann beispielsweise um Kundenrechnungen, Kontoauszüge oder Kassenbelege gehen.
+Es ist von entscheidender Bedeutung, dass jeder im Grundbuch aufgeführte Geschäftsvorfall durch einen ausreichenden Nachweis nachgewiesen werden kann.
+Falls es keine Rechnung oder Quittung zu einer aufgeführten Belegnummer gibt, wird der Eintrag vom Finanzamt nicht akzeptiert.
+Die einzelnen Geschäftsvorfälle werden dann aus dem Grundbuch in das Hauptbuch übertragen.
+Wie der Name vermuten lässt, dient das Grundbuch als Basis für die Buchhaltung.
+Die Geschäftstransaktionen werden im Hauptbuch einzelnen Sachkonten – Bestands- und Erfolgskonten – zugeordnet.
+Es ist von Bedeutung für den Gesetzgeber, da die einzelnen Ereignisse nicht nur chronologisch, sondern auch sachlich geordnet werden müssen.
+Letztendlich besteht das Hauptbuch aus den Sachkonten, die im Kontenplan aufgeführt sind.

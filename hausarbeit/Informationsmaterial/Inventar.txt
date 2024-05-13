@@ -1,0 +1,35 @@
+Das Ergebnis einer Inventur zu einem bestimmten Zeitpunkt wird als Inventar bezeichnet. Es enthält eine Aufstellung aller Schulden und Vermögenswerte eines Unternehmens. Die Art, die Mengen und der zu diesem Zeitpunkt ermittelte Wert sind wichtige Informationen. Gemäß dem deutschen Handelsgesetzbuch ist es für jeden Kaufmann verpflichtet, das Inventar zu Beginn und zum Ende eines Geschäftsjahres aufzubewahren.
+
+Aufteilung des Inventars
+Der Bestand wird in erster Linie in drei Teile aufgeteilt. Alle langfristig eingesetzten statischen Wirtschaftsgüter, die nicht zum Verkauf bestimmt sind, sind Teil des Anlagevermögens. Es sind solche Dinge, die für den betrieblichen Leistungsprozess verwendet werden. Zu dieser Kategorie gehören Vermögensanlagen, immaterielle Vermögensgegenstände und Finanzanlagen.
+
+Das im Unternehmen "zirkulierende" Vermögen wird als Umlaufvermögen bezeichnet. Alles, was nicht als Anlagevermögen gilt und zur Beschaffung, Produktion oder dem Verkauf erforderlich ist, wird hierzu zählt. Hierunter fallen sowohl kurzfristige Vermögenswerte, die für die Herstellung der Waren gebraucht oder mit denen gehandelt werden, als auch Roh-, Hilfs- und Betriebsstoffe.
+
+Die Schulden werden in kurz- und langfristige Kategorien eingeteilt.
+
+Das Reinvermögen, oder Eigenkapital, kann rechnerisch berechnet werden, indem die Schulden vom Vermögen subtrahiert werden (Eigenkapital = Anlagevermögen + Umlaufvermögen - Schulden).
+
+
+Anlagevermögen
+
+	Maschine 1
+	Maschine 2
+	Patente
+	Software
+	Fuhrpark des Unternehmens
+Umlaufvermögen
+
+	Rohstoffe
+	Halbfertige Produkte
+	Bankguthaben
+	Forderungen
+	Wertpapiere
+Schulden
+
+	Offene Rechnungen
+	Verbindlichkeiten
+	Investiertes Fremdkapital
+Reinvermögen = Vermögen – Schulden (rechnerisch)
+
+
+Inventar ist der Prozess der Schaffung neuer Ideen, Produkte oder Lösungen. Es beinhaltet das Entwickeln von etwas Neuem, das bisher nicht existiert. Beim Erfinden werden Kreativität, Vorstellungskraft und Problemlösungsfähigkeiten eingesetzt, um innovative Konzepte oder Erfindungen zu schaffen. Dieser Prozess kann verschiedene Phasen wie Ideenfindung, Forschung, Prototypenerstellung und Evaluierung umfassen. Das Ziel des Erfindens ist es, die Welt zu verbessern, Probleme zu lösen oder neue Möglichkeiten zu schaffen. Erfinder können individuelle Personen, Teams oder Unternehmen sein, die nach Innovation streben. Durch ihre Erfindungen tragen sie zur Weiterentwicklung von Technologie, Wissenschaft, Wirtschaft und Gesellschaft bei.

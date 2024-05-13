@@ -1,0 +1,60 @@
+What is the purpose of inventory and why is it important for companies?
+Which types of inventory procedures are used?
+What possible measures can be taken to improve the efficiency and accuracy of inventory?
+How is the accuracy and completeness of inventory ensured?
+
+Which assets are included in the inventory?
+Which liabilities are listed in the inventory?
+Is the inventory regularly updated and adjusted?
+What possible information does the inventory provide about the financial situation of the company?
+
+What is a balance sheet and what information does it provide about a company?
+Which assets are listed in the balance sheet?
+Which liabilities and equity positions are included in the balance sheet?
+How is the structure of the balance sheet built and what are its components?
+
+What is the equity comparison and what information does it provide about the financial position of a company?
+What is an increase or decrease in equity called?
+How has equity changed compared to the previous year/period, and what are the reasons for these changes?
+
+What types of inventory accounts are there, and how do they differ from each other?
+Where are entries on inventory accounts recorded?
+How are closing balances on inventory accounts recorded?
+How are inventory accounts linked to other accounts in accounting, such as the cash account or the sales account?
+
+What is the general ledger and what function does it serve in accounting?
+Which types of accounts are maintained in the general ledger, and how do they differ from each other?
+How are entries potentially recorded in the general ledger, and how is documentation carried out?
+How is the general ledger linked to other accounts in accounting?
+
+What is the trial balance, and what function does it serve in accounting?
+How are entries recorded and documented in the trial balance?
+How can possible errors in the trial balance be identified and corrected?
+
+What is an opening balance sheet, and what information does it contain?
+What is a closing balance sheet, and what information does it contain?
+
+What are income statement accounts, and what role do they play in accounting?
+What types of income statement accounts are there, and how are they categorized?
+How are revenues and expenses allocated to the respective income statement accounts?
+How are profits and losses treated and recorded in income statement accounts?
+What are the implications of income statement accounts on the income statement?
+
+What is the income statement, and what function does it serve in accounting?
+Which types of income and expenses are recorded in the income statement?
+How is the profit or loss of a company determined in the income statement?
+What information does the income statement provide for financial analysis and reporting?
+How is the profit or loss of a company determined in the income statement?
+
+What are depreciation and why are they important in accounting?
+What types of depreciation are there?
+What are the implications of depreciation on the income statement and balance sheet of a company?
+How can depreciation be optimized for tax planning?
+
+What types of VAT rates are there, and how are they applied?
+What is input VAT, and how is it linked to output VAT?
+How can VAT and input VAT be used in financial analysis to evaluate the financial performance of a company?
+
+
+
+

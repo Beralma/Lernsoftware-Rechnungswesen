@@ -1,0 +1,4 @@
+Das Eröffnungsbilanzkonto (EBK) ist ein Hilfskonto und bildet die Eröffnungsbilanz in der doppelten Buchführung ab.
+Am Anfang des Geschäftsjahres, wenn die Bilanz in Bestandskonten aufgelöst wird, bildet das Eröffnungsbilanzkonto eine Übersicht über alle Vermögens- und Schuldenwerte.
+Was ist ein SBK-Konto? Das SBK ist im Rechnungswesen die Abkürzung für Schlussbilanz-Konto.
+Es handelt sich hierbei um ein Hilfskonto, über das die Schlussbilanz für das Geschäftsjahr generiert wird

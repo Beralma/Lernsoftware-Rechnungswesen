@@ -1,0 +1,17 @@
+Ein Unternehmer muss Umsatzsteuer auf seine Einnahmen zahlen. Im täglichen Leben ist sie besser bekannt als die Mehrwertsteuer,
+obwohl die Bezeichnung ungenau ist. Die Vorsteuer ist die gleiche Steuer aus der Perspektive des Käufers. 
+
+Umsatzsteuer
+Unternehmer zahlen auf Umsätze Steuern
+Muss auf Kassenbons & Rechnungen explizit ausgewiesen werden
+In Deutschland: 19 % oder 7 %
+Steuer muss vom Unternehmen an das Finanzamt abgeführt werden
+Umsatzsteuer = Verbindlichkeit gegenüber dem Finanzamt
+
+Vorsteuer
+Die gleiche Steuer wie die Umsatzsteuer
+Aus einer anderen Perspektive
+Steuer, die ein Unternehmer zahlt, wenn er Waren oder Dienstleistungen von einem anderen Unternehmer einkauft
+Umsatzsteuer des verkaufenden Unternehmens = Vorsteuer des kaufenden Unternehmens
+Käufer, der die Vorsteuer zahlen muss, kann diese wieder vom Finanzamt zurückfordern
+Vorsteuer = Forderung gegenüber dem Finanzamt

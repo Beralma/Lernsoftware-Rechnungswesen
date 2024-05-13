@@ -1,0 +1,57 @@
+In einem Unternehmen haben die meisten Anlagegüter nur eine begrenzte Lebensdauer.
+Dies gilt auch für sehr wertvolle Wirtschaftsgüter, die mit hohen Anschaffungskosten oder Herstellungskosten verbunden sind.
+Laut dem Abschreibungsprinzip ist es erlaubt, dass nur ein Teil der Kosten für die Anschaffung eines Vermögenswertes jährlich von der Steuer abgesetzt oder in einer Gewinn- und Verlustrechnung und im Jahresabschluss eines Unternehmens vermerkt wird.
+
+
+Warum muss abgeschrieben werden?
+Abschreibungen gemäß EStG
+Abschreibungen sind gesetzlich erforderlich. Gemäß § 7 Abs. 1 Satz 1 EStG (Einkommensteuergesetz) müssen die Anschaffungskosten und Herstellungskosten bei Wirtschaftsgütern, die für die Erzielung von Einkünften verwendet werden und erfahrungsgemäß länger als ein Jahr genutzt werden, über die Nutzungsdauer gleichmäßig verteilt werden.
+
+Es ist erforderlich, dass die Kosten für die Anschaffung und Herstellung von Wirtschaftsgütern, die abschreibungsfähig sind, eine bestimmte Grenze erreichen. Es ist offensichtlich, dass die lineare Abschreibung der gesetzliche Normalfall ist, da die Absetzung über die Nutzungsdauer gleichmäßig verteilt ist. Es ist nicht mehr erlaubt, die degressive Abschreibung, die früher auch üblich war, auf Wirtschaftsgüter zu verwenden, die nach dem Jahr 2010 erworben wurden.
+
+
+Abschreibungen gemäß HGB
+Die Bewertungsgrundsätze des Handelsgesetzbuches (HGB) für die Vermögensgegenstände, die im Jahresabschluss aufgeführt sind, weisen auch darauf hin, dass Unternehmen planmäßige Abschreibungen vornehmen müssen.
+
+Deshalb reduzieren Abschreibungen den Gewinn eines Unternehmens, selbst wenn in einem bestimmten Jahr keine Anschaffungskosten oder Herstellungskosten angefallen sind.
+Im Gegensatz dazu steigert das Abschreibungsprinzip den Gewinn im Jahr des Kaufs. Die Kosten für die Anschaffung des Artikels können in diesem Jahr nicht vollständig berücksichtigt werden.
+
+
+Betriebswirtschaftliche Abschreibungen
+Abschreibungen sind auch in der Betriebswirtschaft sinnvoll, da das Unternehmen jedes Jahr die Kosten für die Herstellung oder den Kauf neuer Vermögensgegenstände zurücklegen kann, falls die abgeschriebenen Gegenstände tatsächlich nicht mehr verwendet werden können. Abschreibungen können auch verwendet werden, um Wertverluste beim Anlagevermögen und Umlaufvermögen im Rechnungswesen zu ermitteln.
+
+
+Die Abschreibungsmethoden in der Übersicht
+Im Steuer- und Bilanzrecht ist die lineare Abschreibung eine übliche Abschreibungsform. jährliche Erfassung der Wertminderung mit konstanten Beträgen.
+Die direkte Abschreibung ist eine Methode der Buchhaltung, bei der das Anlagenkonto durch die Abschreibung reduziert wird.
+Die Methode der Leistungsabschreibung wird verwendet, um Anlagegüter abzuschreiben, deren Leistung erfahrungsgemäß stark variiert.
+Planmäßige Abschreibung ist die Abschreibung über eine vorher festgelegte Nutzungsdauer, die sich teilweise an gesetzlichen Vorgaben orientiert .
+
+Lineare Abschreibung und degressive Abschreibung
+Grundsätzlich unterscheidet man zwischen der linearen Abschreibung und der degressiven Abschreibung. Die degressive Abschreibung dagegen hat zur Folge, dass die einzelnen Beträge für die Abschreibungen jedes Jahr geringer ausfallen. Denn hier orientiert sich der Satz für die Abschreibung immer am aktuellen Restbuchwert– der ja wiederum jedes Jahr durch die Abschreibungen fällt.
+
+Die arithmetisch-degressive Abschreibung
+
+Neben der geometrisch-degressiven Abschreibung gibt es auch die arithmetisch-degressive Abschreibung. Diese Abschreibungsmethode verringert die Abschreibungsbeträge jedes Jahr um einen festgelegten Betrag.
+
+Direkte und indirekte Abschreibungsmethoden
+Im Rechnungswesen gibt es zwei Arten von Abschreibungsmethoden: die direkte und die indirekte Abschreibung.
+Direkte Abschreibung bedeutet, den Vermögensposten auf der Passivseite zu reduzieren.
+Anders ist es bei der indirekten Abschreibung, bei der alle Abschreibungen zusammengetragen und als Wertberichtigung auf der Aktiv- und Passivseite dargestellt werden.
+
+
+Leistungsbezogene Abschreibung
+Abschreibung nach Leistung hängt von der Nutzung eines Wirtschaftsguts ab. Abschreibungen auf Basis von Leistungen sind besonders vorteilhaft bei Investitionsgütern, die stark in ihrer Nutzung schwanken. Sie werden beispielsweise in Fahrzeugen angeboten. 
+
+Außerplanmäßige Abschreibung
+Die außerplanmäßige Abschreibung erfasst Wertverluste in einem Unternehmen, die nicht durch planmäßige Nutzung verursacht wurden.
+
+Besonderheiten der unvorhergesehenen Abschreibung
+Obwohl im Rechnungswesen im Allgemeinen keine Unterschiede zwischen außerplanmäßiger und planmäßiger Absetzung der Güter bestehen , gibt es einige Besonderheiten. Es besteht die Möglichkeit, eine außerplanmäßige Abschreibung sowohl bei Anlagen als auch im Umlaufvermögen vorzunehmen. Teilabschreibungen sind im Steuerrecht außerplanmäßige Abschreibungen.
+
+
+Kalkulatorische Abschreibung
+Die kalkulatorische Abschreibung bezieht sich nicht auf die bilanzielle Abschreibung, sondern auf den tatsächlichen Wertverlust des Sachanlagevermögens. Der Sinn einer kalkulatorischen Abschreibung besteht darin, dass in einem Unternehmen tatsächliche Kosten entstehen, die bei der Berechnung von Gewinnen und Verlusten nicht erscheinen.
+
+Was ist eine AfA-Tabelle?
+Wer unsicher ist, wie lange eine Nutzungsdauer für bestimmte Wirtschaftsgüter benötigt wird, kann auf AfA-Tabellen zurückgreifen. Das Bundesministerium für Finanzen stellt sie her. Allerdings sind sie nicht verbindlich und dienen lediglich als Unterstützung. Die Nutzungsdauer, die in diesen Tabellen angegeben ist, kann je nach Situation vom Unternehmer abweichen.

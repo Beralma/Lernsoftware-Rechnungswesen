@@ -1,0 +1,29 @@
+Bestandskonten Definition – Aktivkonto und Passivkonto
+Die Bestandskonten werden durch die doppelte Buchführung aus der Bilanz des Unternehmens abgeleitet.
+Jeder Posten in der Bilanz muss ein eigenes Bestandskonto geführt werden.
+Die Konten werden als Aktiv- oder Passivkonten bezeichnet, je nachdem, aus welcher Seite der Bilanz (Aktiva oder Passiva) sie stammen.
+Die Werte des Anlage- und Umlaufvermögens werden auf den aktiven Bestandskonten angezeigt, während die Kapitalquellen auf den passiven Bestandskonten angezeigt werden.
+
+Aktiv- und Passivkonten der Bilanz
+Aktivkonten wie Gebäude, Maschinen und Fuhrpark haben Auswirkungen auf das Anlage- und Umlaufvermögen eines Unternehmens und stehen auf der Habenseite einer Bilanz als Bestandskonten.
+Unternehmen buchen Beträge auf der Sollseite der Bestandskonten ein, wenn sie auf den Bestandskonten eingehen.
+Unternehmen können den Fuhrpark erweitern, indem sie die Aktiv- oder Sollseite des Bestandskontos erreichen, während ein Verkauf die Passiv- oder Habenseite des Kontos betrifft.
+Eine kurze Zusammenfassung zeigt die Idee: Die Sollseite von Aktivkonten ist für die Buchung von Zugängen zuständig, während die Habenseite für Abgänge zuständig ist.
+Der Startbestand eines Aktivkontos liegt auf der Aktivseite, während der Endbestand auf der Passivseite liegt.
+Passivkonten auf der Passivseite der Bilanz sind Konten wie Bankverbindlichkeiten oder Spareinlagen, die das Eigenkapital eines Unternehmens betreffen.
+Unternehmen buchen auf passiven Bestandskonten im Gegensatz zum Aktivkonto einen Zugang auf der Passiv- oder Habenseite, während sie einen Abgang auf der Aktiv- oder Sollseite ausweisen.
+Bei passiven Bestandskonten sind der Anfangs- und Endbestand auf der Passivseite zu finden, während bei aktiven Bestandskonten der Endbestand auf der Aktivseite zu erkennen ist.
+
+Buchungen auf Bestandskonten
+Ein Beispiel zeigt die Buchung auf einem Bestandskonto:
+Ein Unternehmen kauft ein Auto für 15.000 Euro und überweist den Preis per Überweisung vom Bankkonto.
+Bei der doppelten Buchführung muss jede Buchung auf einem Bestandskonto im Soll mit einer entsprechenden Buchung im Haben übereinstimmen, was zu zwei Konten führt.
+Durch die Anschaffung steigt der Bestand auf der Aktivseite des Bestandskontos Fuhrpark um 15.000 Euro, während sich das Bankguthaben auf der Aktivseite des Bestandskontos um 15.000 Euro verringert.
+Sobald eine Buchung auf einem Bestandskonto im Soll durchgeführt wird, wird eine entsprechende Habenbuchung auf einem anderen Konto durchgeführt.
+Es ist erforderlich, bei jeder Buchung das passende Gegenkonto anzugeben.
+
+Erstellung der Bilanz
+Im Rahmen der Inventur zum Ende des Geschäftsjahres sind Unternehmen gemäß den Bestimmungen des Handelsgesetzbuchs verpflichtet, die Schlussbestände der Bestandskonten zu ermitteln, um sie in der Bilanz auszuweisen.
+Da sich der Schlussbestand aus der Differenz zwischen Soll- und Habenseite ergibt, wird dieser Prozess auch als Saldieren bezeichnet.
+Die Differenz zwischen Soll- und Habenseite bildet den Schlussbestand der Aktivkonten, während der Endsaldo der Passivkonten aus der Differenz zwischen Haben- und Sollseite entsteht.
+Es ist von Bedeutung, im Voraus Unterschiede in der Bestände zu vermeiden.

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="a10ce3e920c34795a0e2988dc6dd7af9" Name="Diagram1">
+        <EntityTypeShape EntityType="hausarbeit_DEModel.Aufgabenstellung" Width="1.5" PointX="5.25" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="hausarbeit_DEModel.Inhalt" Width="1.5" PointX="3" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="hausarbeit_DEModel.Kapitel" Width="1.5" PointX="0.75" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="hausarbeit_DEModel.Rueckmeldung" Width="1.5" PointX="7.5" PointY="1" IsExpanded="true" />
+        <AssociationConnector Association="hausarbeit_DEModel.FK__Rueckmeld__AGS_i__36B12243" ManuallyRouted="false" />
+        <AssociationConnector Association="hausarbeit_DEModel.fk_InhaltAufgabenstellung" ManuallyRouted="false" />
+        <AssociationConnector Association="hausarbeit_DEModel.fk_KapitelInhalt" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

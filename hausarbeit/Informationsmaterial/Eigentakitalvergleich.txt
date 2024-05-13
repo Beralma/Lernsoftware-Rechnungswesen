@@ -1,0 +1,16 @@
+Eigenkapitalvergleich verständlich & knapp definiert
+Der Eigenkapitalvergleich ist eine einfache und effektive Methode, um den Erfolg eines Unternehmens zu bewerten.
+Es wird ein Vergleich zwischen dem Betrag am Anfang der Periode und dem Betrag am Ende der Periode durchgeführt.
+Wenn das Eigenkapital steigt, wird dies als Eigenkapitalmehrung bezeichnet, wenn es sinkt Eigenkapitalminderung.
+Es ist nicht erlaubt, private Einnahmen oder Entnahmen als Erhöhung oder Abnahme zu betrachten.
+
+Der wirtschaftliche Erfolg lässt sich nur mit folgender Vorgehensweise feststellen:
+  Eigenkapital am Ende des Wirtschaftsjahres
+- Eigenkapital am Ende des vorangegangenen Wirtschaftsjahres
++ Privatentnahmen
+- Privateinlagen
+
+Gewinnermittlung mit einem Betriebsvermögensvergleich
+Die Berechnung der Vermögensveränderung als Vergleich des Betriebsvermögens ist eine bedeutende Komponente bei der Steuerfestsetzung.
+Gewerbetreibende, die für die Buchhaltung verantwortlich sind, müssen einen umfassenden Überblick über das Betriebsvermögen haben.
+Es ist ausreichend, einen vereinfachten und nicht vollständigen Vergleich des Betriebsvermögens bei Selbstständigen durchzuführen, die freiwillig Bücher führen.

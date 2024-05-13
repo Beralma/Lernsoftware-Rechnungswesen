@@ -1,0 +1,22 @@
+Hauptbuch verständlich & knapp definiert
+Die Buchführung besteht aus dem Hauptbuch.
+Das Hauptbuch überträgt geschäftliche Ereignisse aus dem Grundbuch, um eine angemessene Ordnung aller Buchungen auf Sachkonten zu schaffen.
+
+Die doppelte Buchführung umfasst das Hauptbuch, in das alle geschäftlichen Ereignisse sorgfältig und angemessen dokumentiert werden.
+Grund dafür ist das Journal, welches alle Ereignisse im Geschäft immer noch chronologisch geordnet hat.
+Damit das Hauptbuch als Grundlage der Bilanz dienen kann, muss es das Prinzip der Geschlossenheit befolgen.
+
+Vom Grundbuch zum Hauptbuch
+Das Hauptbuch besteht aus Sachkonten, die bestimmte Geschäftsvorfälle nach ihrer Ursache ordnen.
+Grund dafür ist das Journal, in das alle Ereignisse in ihrer chronologischen Reihenfolge dokumentiert werden.
+Es gibt drei verschiedene Möglichkeiten, die Übertragung durchzuführen:
+
+Führung und Abschluss des Hauptbuchs
+Normalerweise wird das Hauptbuch gemäß den Vorlagen des Industriekontenrahmens, des Standardkontenrahmens oder des Gemeinschaftskontenrahmens aufgebaut.
+Die Bilanz entsteht automatisch, nachdem alle Sachkonten und das Hauptbuch geschlossen wurden.
+Mit dem Abschluss des Hauptbuchs wird auch die Gewinn- und Verlustrechnung direkt erstellt.
+
+Daher sieht der Gesetzgeber vor, dass das Prinzip der Geschlossenheit im Hauptbuch berücksichtigt wird.
+Das bedeutet offiziell, dass es zu einem Ausgleich zwischen dem Soll- und dem Haben kommt.
+Es ist erforderlich, dass die Summe aller Sollposten exakt der Summe aller Habenposten entspricht.
+Es ist auch wichtig, dass es auch materielle Geschlossenheit gibt, was bedeutet, dass das Hauptbuch tatsächlich alle geschäftlichen Ereignisse einer bestimmten Zeitspanne dokumentiert.

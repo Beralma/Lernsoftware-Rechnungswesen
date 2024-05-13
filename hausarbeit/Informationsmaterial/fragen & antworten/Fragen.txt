@@ -1,0 +1,55 @@
+Was ist der Zweck der Inventur und warum ist sie für Unternehmen wichtig?
+Welche Arten von Inventurverfahren werden verwendet?
+Welche möglichen Maßnahmen können ergriffen werden, um die Effizienz und Genauigkeit der Inventur zu verbessern?
+Wie wird die Genauigkeit und Vollständigkeit der Inventur sichergestellt?
+---------------------------------------------------------
+Welche Vermögensgegenstände sind im Inventar enthalten?
+Welche Verbindlichkeiten sind im Inventar aufgeführt?
+Wird das Inventar regelmäßig aktualisiert und angepasst?
+Welche mögliche Informationen liefert das Inventar über die finanzielle Situation des Unternehmens?
+---------------------------------------------------------
+Was ist eine Bilanz und welche Informationen liefert sie über ein Unternehmen?
+Welche Vermögenswerte sind in der Bilanz aufgeführt?
+Welche Verbindlichkeiten und Eigenkapitalpositionen sind in der Bilanz enthalten?
+Wie wird die Bilanzstruktur aufgebaut und welche Bestandteile hat sie?
+---------------------------------------------------------
+Was ist der Eigenkapitalvergleich und welche Informationen bietet er über die finanzielle Position eines Unternehmens?
+Wie nennt man eine erhöhung order verringerung des Eigenkapitals?
+Wie hat sich das Eigenkapital im Vergleich zum Vorjahr/der Vorperiode verändert und was sind die Gründe für diese Veränderungen?
+---------------------------------------------------------
+Welche Arten von Bestandskonten gibt es und wie unterscheiden sie sich voneinander?
+Wo werden Zugänge auf Bestandskonten erfasst?
+Wie werden Schlussbestände auf Bestandskonten erfasst?
+Wie werden Bestandskonten mit anderen Konten in der Buchhaltung verknüpft, z. B. mit dem Kassenkonto oder dem Verkaufskonto?
+----------------------------------------------------------
+Was ist das Grundbuch und welche Funktion erfüllt es in der Buchhaltung?
+Welche Arten von Konten werden im Grundbuch geführt und wie unterscheiden sie sich voneinander?
+Wie werden Buchungen möglicherweise im Grundbuch erfasst und wie erfolgt die Dokumentation?
+Wie wird das Grundbuch mit anderen Konten in der Buchhaltung verknüpft?
+---------------------------------------------------------
+Was ist das Hauptbuch und welche Funktion erfüllt es in der Buchhaltung?
+Wie werden Buchungen im Hauptbuch erfasst und dokumentiert?
+Wie können mögliche Fehler im Hauptbuch identifiziert und korrigiert werden?
+---------------------------------------------------------
+Was ist eine Eröffnungsbilanz und welche Informationen enthält sie?
+Was ist eine Schlussbilanz und welche Informationen enthält sie?
+---------------------------------------------------------
+Was sind Erfolgskonten und welche Rolle spielen sie in der Buchhaltung?
+Welche Arten von Erfolgskonten gibt es und wie werden sie kategorisiert?
+Wie werden Erlöse und Kosten den entsprechenden Erfolgskonten zugeordnet?
+Wie werden Gewinne und Verluste in Erfolgskonten behandelt und verbucht?
+Welche Auswirkungen haben Erfolgskonten auf die Gewinn- und Verlustrechnung?
+---------------------------------------------------------
+Was ist das Gewinn- und Verlustkonto und welche Funktion erfüllt es in der Buchhaltung?
+Welche Arten von Einnahmen und Ausgaben werden im Gewinn- und Verlustkonto erfasst?
+Wie wird der Gewinn oder Verlust eines Unternehmens im Gewinn- und Verlustkonto ermittelt?
+Welche Informationen liefert das Gewinn- und Verlustkonto für die finanzielle Analyse und Berichterstattung?
+---------------------------------------------------------
+Was sind Abschreibungen und warum sind sie in der Buchhaltung wichtig?
+Welche Arten von Abschreibungen gibt es?
+Welche Auswirkungen haben Abschreibungen auf die Gewinn- und Verlustrechnung und die Bilanz eines Unternehmens?
+Wie können Abschreibungen im Rahmen der Steuerplanung optimiert werden?
+--------------------------------------------------------
+Welche Arten von Umsatzsteuersätzen gibt es und wie werden sie angewendet?
+Was ist Vorsteuer und wie wird sie mit der Umsatzsteuer verknüpft?
+Wie werden Umsatzsteuer und Vorsteuer möglicherweise in der Finanzanalyse verwendet, um die finanzielle Leistung eines Unternehmens zu bewerten?

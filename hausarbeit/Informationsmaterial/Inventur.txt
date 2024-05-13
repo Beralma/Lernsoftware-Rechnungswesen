@@ -1,0 +1,35 @@
+Einmal im Jahr werden alle Vermögenswerte und Schulden des Unternehmens durch die Inventur
+gemessen, gezählt und dokumentiert.
+Das Inventar, das als Grundlage für die Bilanz verwendet wird, wird als Ergebnis
+von Inventuren bezeichnet. Da es häufig schwierig ist, eine vollständige Inventur
+zu einem bestimmten Stichtag durchzuführen, gibt es neben der Stichtagsinventur auch
+weitere Optionen, wie Stichprobeninventur, permanente Inventur oder Verlegte Inventur.
+Diese Optionen vereinfachen es für den Kaufmann. 
+
+Buchinventur
+Die Liste der nicht körperlich zu erfassenden Werte, wie Bankguthaben oder -schulden, Forderungen oder Lieferverbindlichkeiten, wird als Buchinventar bezeichnet. Die Werte werden mithilfe von Dokumenten wie offenen Postenlisten, Kontoauszügen und Verträgen erfasst und berechnet.
+
+Stichtagsinventur
+Die Inventur wird als Stichtagsinventur bezeichnet, wenn sie zu einem bestimmten Zeitpunkt durchgeführt wird. In der Regel findet diese Art der Inventarisierung am Bilanzstichtag statt. Es ist gestattet, die Lagerbestände bis zu 10 Tage vor oder nach dem Abgabetermin durchzuführen.
+
+Inventurvereinfachungsverfahren
+Viele Unternehmen und Branchen haben Schwierigkeiten, die Stichtagsinventur durchzuführen, sei es aufgrund von Personalmangel oder aufgrund des Umfangs der zu inventarisierenden Werte und Waren.
+Hier hat der Gesetzgeber dem Unternehmen die Möglichkeit gegeben, die Inventur entweder permanent oder stichprobenartig nach vorne oder hinten zu verlegen.
+
+Verlegte Inventur
+Der Unternehmer kann seine Lagerbestände innerhalb von drei Monaten vor oder zwei Monaten nach dem Bilanzstichtag an einen beliebigen Tag verlegen. Nur wenn es von einer kaufmännischen Software unterstützt wird, kann dieses Verfahren durchgeführt werden. Während des Betriebs werden die Werte gesammelt, jedoch erst später analysiert. Es ist wichtig, zu berücksichtigen, ob Zu- und Abgänge zwischenzeitlich einen Wert verringern oder erhöhen.
+
+Permanenete Inventur
+Zu einem beliebigen Zeitpunkt beginnt eine permanente Inventur mit einer körperlichen Bestandsaufnahme. Durch die ständige Inventur sind strenge Standards an die laufend geführten Dokumente geknüpft, da alle Zu- und Abgänge dokumentiert werden müssen, wie zum Beispiel im Lagerbuch. Neben der laufenden buchmäßigen Inventur ist im Laufe des Geschäftsjahres eine physische Inventur durchzuführen. Im Unterschied zur Stichtagsinventur kann der Zeitpunkt hierfür frei gewählt werden. Es ist möglich, den idealen Zeitpunkt für diese Ware zu bestimmen (z.B. aufgrund des geringen Bestandes). Dieses einfache Verfahren erfordert ein System, das die Rückrechnung und Fortschreibung der Zu- und Abgänge im Lagerbestand ermöglicht.
+
+Stichprobeninventur
+Die Stichprobeninventur erfasst nur einen Teil des Lagerbestands. Nur wenn es unverhältnismäßig wäre, den gesamten Lagerbestand zu betrachten, kann dieses Inventurvereinfachungsverfahren angewendet werden, um Zeit und Kosten zu sparen. Um aus der Teilmenge die Gesamtmenge zu berechnen, verwendet die Stichprobeninventur mathematische und statistische Verfahren.
+
+
+Inventur ist ein Prozess, bei dem die Bestände und Werte von Waren, Materialien oder Vermögenswerten eines Unternehmens erfasst und überprüft werden. Dies geschieht in der Regel am Ende eines Geschäftsjahres, um eine genaue Bestandsaufnahme zu erstellen.
+
+Während der Inventur werden alle vorhandenen Bestände physisch gezählt, überprüft und mit den Aufzeichnungen im Lagerbestandssystem abgeglichen. Ziel ist es, mögliche Abweichungen zwischen den tatsächlichen Beständen und den erwarteten Beständen zu identifizieren und zu korrigieren.
+
+Die Inventur ermöglicht es einem Unternehmen, die Genauigkeit seiner Bestandsaufzeichnungen zu überprüfen, potenzielle Verluste oder Diebstähle aufzudecken und eine Grundlage für die finanzielle Bewertung des Unternehmens zu schaffen.
+
+Es gibt verschiedene Arten der Inventur, wie zum Beispiel die Stichtagsinventur, bei der der Bestand zu einem bestimmten Zeitpunkt erfasst wird, oder die permanente Inventur, bei der laufend Bestandskorrekturen vorgenommen werden. Die Durchführung einer Inventur erfordert eine gründliche Planung, Organisation und Dokumentation, um sicherzustellen, dass der Bestand genau erfasst wird.

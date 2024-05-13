@@ -1,0 +1,37 @@
+Die Darstellungsform der GuV
+Es besteht die Möglichkeit, dass der Aufbau und die Struktur der GuV variieren.
+Es besteht die Option, die GuV in Kontenform oder in gestaffelter Form zu erstellen.
+Es gibt eine Unterscheidung zwischen der Soll- und Habenseite (Ausgaben/Erträge) im Kontenformat.
+Falls ein Saldo auf der Soll-Seite entsteht, wird ein Gewinn erzielt.
+Wenn jedoch ein positives Ergebnis auf der finanziellen Seite auftritt, liegt ein Verlust vor. 
+
+Der Aufbau und die Gliederung der GuV
+Die Gewinn- und Verlustrechnung vergleicht alle Kosten und Erträge für einen bestimmten Zeitraum.
+Dies kann ein Quartal oder das gesamte Geschäftsjahr sein. Da es sich um ein Konto auf der Passivseite der Bilanz handelt, werden die Erträge im Saldo gebucht und die Aufwendungen im Soll.
+Am Ende des bestimmten Zeitraums wird der Gewinn oder Verlust aus der GuV berechnet und dann auf das Konto Eigenkapital übertragen.
+
+Die Aussägefähigkeit der GuV
+Die GuV stellt keine eindeutige Erfolgsspaltung im betriebswirtschaftlichen Sinn dar,
+da es nicht erforderlich ist, die Aufwendungen und Erträge in betriebsfremde und betriebliche sowie in einmalige und regelmäßige periodeneigene und periodenfremde Kategorien zu unterteilen.
+
+Es ist notwendig, nicht nur die Daten des letzten Geschäftsjahres gemäß HGB und IFRS (Internationale Rechnungslegungsstandards)
+zu präsentieren, sondern auch die Werte des Vorjahres und sogar die Werte der letzten drei Jahre gemäß US-GAAP.
+Falls eine Stelle im aktuellen Jahr nicht besetzt wird, wird sie als unbesetzt aufgeführt.
+Es ist von großer Bedeutung, dass die Beträge vergleichbar sind.
+Falls dies nicht der Fall ist, muss eine Erklärung im Anhang enthalten sein.
+
+Wie wirkt sich eine Abschreibung auf die GuV aus?
+Eine Abschreibung ist die Abnutzung eines Vermögensgegenstandes im Rechnungswesen, also der "Werteverzehr".
+Die Kosten für die Anschaffung und Herstellung dieser Gegenstände werden bei einer Abschreibung auf die Jahre der Nutzung des Anlagevermögens verteilt.
+Folglich wird der Gewinn von einer Abschreibung durch den Aufwand verringert, wie es im HGB festgelegt ist. 
+
+Wie oft muss eine GuV erstellt werden?
+Jeden Geschäftsjahr muss der Kaufmann gemäß § 242 HGB eine Aufstellung seiner Aufwendungen und Erträge vorlegen.
+Wenn es um den formalen Aufbau geht, enthalten die internationalen Rechnungslegungsstandards wie die International Financial Reporting Standards (IFRS)
+und die United States Generally Accepted Accounting Principles (US-GAAP) detaillierte Regeln.
+
+Viele Unternehmen erstellen monatlich eine GuV und eine vollständige Bilanz, und das bereits wenige Tage nach Ultimo.
+Dies ermöglicht dem Unternehmer, einen aktuellen Einblick in die Entwicklung seines Geschäftsjahres zu erhalten.
+Es ist möglich, Unerwartungen am Ende des Geschäftsjahres zu vermeiden und Fehler frühzeitig zu verhindern.
+Außerdem besteht die Möglichkeit, dass die besonderen Ereignisse, die für die Finanzen relevant sind,
+angemessen auf die einzelnen Monate aufgeteilt werden können, wie z. B. umfangreiche Reparaturen, Forderungsausfälle oder Betriebsferien.

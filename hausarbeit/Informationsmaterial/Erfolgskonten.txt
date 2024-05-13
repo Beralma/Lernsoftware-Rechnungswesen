@@ -1,0 +1,67 @@
+Es gibt viele verschiedene Begriffe im Bereich der Finanzen und Buchhaltung. Schnell kann dies zu Verwirrung führen.
+Es ist von entscheidender Bedeutung, die exakte Bedeutung eines Begriffes zu verstehen und seine Anwendung zu verstehen.
+Es ist möglich, dass Sie in der Rechnungslegung bereits von dem Begriff des Erfolgskontos gehört haben.
+Was ist das genau, und was müssen Sie beachten, wenn Sie ein Erfolgskonto buchen? 
+
+
+Was sind Erfolgskonten?
+Erfolgskonten sind ein Unterkonto des Eigenkapitalkontos und sind ein Teil der doppelten Buchführung.
+Das Eigenkapitalkonto ist ein Konto, das als passiv betrachtet wird.
+
+Die Erfassung von Gewinnen und Verlusten am Ende des Jahres wird durch die doppelte Buchführung durchgeführt.
+Neben Kleinunternehmen und Selbstständigen sind alle Unternehmen verpflichtet, eine doppelte Buchführung durchzuführen.
+Gemäß dem Handelsgesetzbuch werden Kleinunternehmen definiert, wenn ihr Umsatz im letzten Jahr unter 17.500€ lag und der Umsatz für das kommende Geschäftsjahr nicht höher als 60.000€ erwartet wird.
+
+Bestandskonten und Erfolgskonten sind die zwei Hauptkategorien der doppelten Buchführung.
+Erfolgskonten verbuchen Erträge und Aufwendungen, während Bestandskonten das Vermögen eines Unternehmens wie beispielsweise Grundstücke und Schulden beschreiben.
+
+
+Was ist der Unterschied zwischen Bestandskonten und Erfolgskonten?
+Nun gehen wir noch einmal detaillierter auf die Unterschiede zwischen den beiden Konten ein:
+Wie kann man ermitteln, welcher Geschäftsvorfall auf welches Konto registriert wird?
+
+Die Bestandskonten werden für alle Ereignisse gebucht, die den Bestand eines Unternehmens verändern.
+Dies kann beispielsweise die Anschaffung von Geräten oder die Zahlung einer Rechnung per Banküberweisung beinhalten.
+Daher werden auf Bestandskonten erfolgsneutrale Geschäftsvorfälle verbucht, was bedeutet, dass alle Vorfälle, die keinen Einfluss auf den Gewinn des Unternehmens haben, auf Bestandskonten verbucht werden.
+
+Im Gegensatz dazu werden geschäftliche Ereignisse auf Erfolgskonten gemeldet, die keinen Einfluss auf den Bestand haben und erfolgreich sind.
+Der Gewinn eines Unternehmens wird durch erfolgreiche Vorgänge beeinflusst.
+
+Ein weiterer bedeutender Unterschied besteht darin, dass die Gewinn- oder Verlustrechnung jedes Jahr mit dem Endbestand des vorherigen Geschäftsjahres fortgesetzt wird, während die Gewinn- oder Verlustrechnung jedes Jahr erfolgt und daher von 0 anfängt.
+
+
+Welche Arten von Erfolgskonten gibt es?
+Wir unterscheiden das Ertrags- und das Aufwandskonto bei den Erfolgskonten.
+Alle positiven Wertveränderungen werden auf Ertragskonten verbucht, während alle negativen Wertveränderungen auf Aufwandskonten verbucht werden.
+Daher erhöhen Erträge das Eigenkapital, während Aufwendungen es verringern.
+Mieteinnahmen sind ein Beispiel für Buchungen auf dem Ertragskonto, während der Verbrauch von Rohstoffen auf dem Aufwandskonto verbucht wird.
+
+
+Wie werden die Erfolgskonten gebucht?
+In der doppelten Buchführung wird jeder Geschäftsvorfall auf einem einzelnen Konto und einem anderen Konto verbucht.
+Man kann auch die Wörter "Müssen" und "Besitzen" verwenden. Für eine sorgfältige und korrekte Buchführung ist es entscheidend, die Begriffe zu definieren und sorgfältig zu verstehen.
+
+Die Vermögensverwendung und -herkunft werden von Soll beschrieben.
+Aufgrund der Tatsache, dass die Erfolgskonten als passive Konten gelten, werden alle Gewinne im Besitz und alle Ausgaben im Plan gebucht.
+Immer steht Soll auf der linken Seite und Haben auf der rechten.
+
+
+Wie werden Erfolgskonten geschlossen?
+Das Gewinn- und Verlustkonto wird verwendet, um Gewinnskonten zu schließen, anstatt das Eigenkapitalkonto direkt.
+Die Salden der beiden Konten müssen zuerst gebildet werden. Alle Sollsalden im Aufwandskonto werden addiert, um den Saldo zu erhalten.
+Wir übertragen nun den Betrag auf der Habenseite im GuV-Konto.
+
+Alle Habensalden werden im Ertragskonto addiert, um den Saldo zu erhalten.
+Es wird auf der geplanten Seite des Kontos dokumentiert. Diese Methode wird verwendet, um die Konten zu gleichen.
+
+In der Rechnungslegung gibt es exakte Buchungssätze, die Vorschriften für die Buchung festlegen.
+Wir beziehen uns hier auf die Buchungssätze "Ertragskonten an GuV-Konto" und "GuV-Konten an Aufwandskonten".
+
+Anschließend erstellen wir den Saldo des GuV-Kontos und übernehmen ihn in das Eigenkapitalkonto.
+Daher sind die Erfolgskonten als fertiggestellt. Der Saldo des GuV-Kontos zeigt an, ob das Unternehmen einen Gewinn oder einen Verlust erzielt hat.
+Wenn die Erträge die Aufwendungen übersteigen, wird als Gewinn angesehen.
+
+Wenn die Kosten die Erträge übersteigen, wird ein Verlust festgestellt.
+Im Fachbereich wird auch der Begriff Jahresüberschuss oder Jahresfehlbetrag verwendet.
+
+

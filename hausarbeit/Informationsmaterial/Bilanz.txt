@@ -1,0 +1,42 @@
+Die Bilanz ist eine Aufstellung der Vermögens- und Kapitalwerte eines Unternehmens zu einem bestimmten Zeitpunkt. Eine Bilanz ist neben der Gewinn- und Verlustrechnung (GuV) ein wesentlicher Bestandteil eines Jahresabschlusses. Sie liefert eine buchhalterische Zusammenfassung aller Vermögenswerte eines Unternehmens und die Quelle des Kapitals.
+Das Inventar (die Vermögensgegenstände, Schulden und das Reinvermögen) dient als Grundlage.
+
+Im Gegensatz zum Inventar sind in der Bilanz nur die Wertangaben in der jeweiligen Währung enthalten und keine Mengenangaben. Die Bilanz ist nach dem System der doppelten Buchführung in AKTIVA (= Vermögensgegenstände/Mittelverwendung) und PASSIVA (= Eigenkapital und Fremdkapital/Mittelherkunft) unterteilt.
+Immer muss der Wert der AKTIV-Seite mit dem Wert der PASSIV-Seite übereinstimmen.
+Die Bilanzsumme ist die Summe der AKTIV-Seite. In einer korrekt durchgeführten Berechnung entspricht sie exakt der Summe der PASSIV-Seite. Gemäß § 266 des Handelsgesetzbuchs (HGB) ist die Struktur der Bilanz festgelegt.
+
+Wann wird eine Bilanz erstellt?
+Das Handelsgesetzbuch (HGB) regelt, wie eine Bilanz erstellt wird. Wie viel Umsatz und Gewinn ein Unternehmen hat und ob es im Handelsregister eingetragen ist, bestimmen, ob eine Bilanz erforderlich ist. Für kleine Unternehmen ist eine EÜR bereits ausreichend. Wenn der Gewinn unter 17.500 Euro liegt, ist keine andere Versicherung erforderlich. Auch Freelancer müssen keine Bilanz machen. 
+
+Wann ist eine Bilanz notwendig?
+Jeder Kaufmann oder jedes Unternehmen ist verpflichtet, zu Beginn des Wirtschaftsjahres eine Eröffnungsbilanz zu erstellen. Außerdem muss eine Abschlussbilanz nach dem Ende des Geschäftsjahres erstellt werden. Es ist auch im Jahresabschluss enthalten und muss vom Geschäftsführer unterschrieben werden.
+
+Wo kann ich die Bilanz einsehen?
+Alle Unternehmen, die zur Buchführung verpflichtet sind, müssen ihre Bilanz und den Jahresabschluss veröffentlichen. Die Jahresabschlüsse von verschiedenen Unternehmen können im elektronischen Bundesanzeiger oder dem elektronischen Unternehmensregister abgerufen werden. Dadurch können alle Unternehmen aufgrund ihrer finanziellen Situation miteinander verglichen werden. Dies ist besonders für Kunden oder Kreditgeber von Vorteil, um zu entscheiden, ob eine Zusammenarbeit lohnenswert ist.
+
+Was ist die goldene Bilanzregel?
+Ziel der goldenen Bilanzregel ist es, die Kosten für die Finanzierung des Kapitals so gering wie möglich zu halten. Sie erklärt, dass langfristiges Vermögen oder Anlagevermögen auch auf lange Sicht finanziert werden muss. Es ist geplant, das Umlagevermögen durch kurzfristiges Vermögen zu finanzieren. Langfristiges Fremdkapital kostet weniger als kurzfristiges Darlehen. Im Gegensatz dazu ist ein kurzfristiges Darlehen jedoch flexibler, wodurch keine langfristige Verpflichtung besteht. Dadurch besteht eine Kongruenz der Fristen zwischen der Kapitalbindung und der Kapitalüberlassung von Aktiva und Passiva. Eine langfristige Finanzierung liegt vor, wenn das Verhältnis zwischen Eigenkapital und Anlagevermögen gleich oder größer eins ist.
+
+Bilanzveränderungen
+Bei einem Tausch von Aktiven werden zwei Positionen auf der Aktivseite in der Bilanz geändert. Zwei Aktivkonten erfahren eine Erhöhung und eine Verringerung. Beim Passivtausch passiert das Gleiche nur auf der Passivseite und mit Passivkonten. Bei der Mehrung von Aktiv und Passiv ändern sich jedoch beide Seiten der Bilanz. Die Bilanzpositionen der Aktiv- und Passivseite steigen. Die Minderung von Aktiv und Passiv ist dieselbe, nur dass die Bilanzwerte reduziert werden.
+
+Die Funktionen der Bilanz
+
+Die Aufstellung hat drei verschiedene Funktionen für das Unternehmen und seine verbundenen Parteien:
+Die Aufstellung des Vermögens und des Kapitals ist die Funktion der Dokumentation. Gewinnermittlungsfunktion Informationsfunktion
+Die Gewinnermittlungsfunktion beinhaltet den Vergleich des Eigenkapitals zu Beginn des Geschäftsjahres mit dem Eigenkapital zum Ende des Geschäftsjahres.
+Informationsfunktion: Informationen über den Unternehmenserfolg
+
+
+
+Eine Bilanz ist eine finanzielle Zusammenfassung, die die Vermögenswerte, Schulden und das Eigenkapital eines Unternehmens zu einem bestimmten Zeitpunkt darstellt. Sie gibt einen Überblick über die finanzielle Lage und den Wert eines Unternehmens.
+
+Die Bilanz besteht aus zwei Hauptteilen: der Aktivseite und der Passivseite.
+
+Auf der Aktivseite werden die Vermögenswerte des Unternehmens aufgeführt, wie zum Beispiel Bargeld, Forderungen, Vorräte, Immobilien und Investitionen. Diese zeigen, was das Unternehmen besitzt und welchen Wert es hat.
+
+Auf der Passivseite werden die Schulden und das Eigenkapital des Unternehmens aufgeführt. Schulden können Verbindlichkeiten gegenüber Lieferanten, Darlehen oder andere Verpflichtungen sein. Das Eigenkapital repräsentiert den Anteil der Eigentümer am Unternehmen.
+
+Die Bilanzgleichung besagt, dass die Summe der Aktivseite gleich der Summe der Passivseite sein muss. Dies bedeutet, dass das Vermögen eines Unternehmens durch Schulden und Eigenkapital finanziert wird.
+
+Die Bilanz ist ein wichtiges Instrument für Unternehmen, Investoren, Gläubiger und andere Stakeholder, um die finanzielle Gesundheit und Stabilität eines Unternehmens zu beurteilen. Sie liefert Informationen über die Liquidität, die Verschuldung und den Wert eines Unternehmens und dient als Grundlage für finanzielle Entscheidungen und Analysen.

@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="hausarbeit_ENModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Aufgabenstellung">
+    <Key>
+      <PropertyRef Name="AGS_id" />
+    </Key>
+    <Property Name="AGS_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Inhalt_id" Type="Int32" Nullable="false" />
+    <Property Name="AGS_Text" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Rueckmeldung" Relationship="Self.FK__Rueckmeld__AGS_i__2C3393D0" FromRole="Aufgabenstellung" ToRole="Rueckmeldung" />
+    <NavigationProperty Name="Inhalt" Relationship="Self.fk_InhaltAufgabenstellung" FromRole="Aufgabenstellung" ToRole="Inhalt" />
+  </EntityType>
+  <EntityType Name="Inhalt">
+    <Key>
+      <PropertyRef Name="Inhalt_id" />
+    </Key>
+    <Property Name="Inhalt_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Kapitel_id" Type="Int32" Nullable="false" />
+    <Property Name="Inhalt_Text" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Aufgabenstellung" Relationship="Self.fk_InhaltAufgabenstellung" FromRole="Inhalt" ToRole="Aufgabenstellung" />
+    <NavigationProperty Name="Kapitel" Relationship="Self.fk_KapitelInhalt" FromRole="Inhalt" ToRole="Kapitel" />
+  </EntityType>
+  <EntityType Name="Kapitel">
+    <Key>
+      <PropertyRef Name="Kapitel_id" />
+    </Key>
+    <Property Name="Kapitel_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Kapitel_Name" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Inhalt" Relationship="Self.fk_KapitelInhalt" FromRole="Kapitel" ToRole="Inhalt" />
+  </EntityType>
+  <EntityType Name="Rueckmeldung">
+    <Key>
+      <PropertyRef Name="Rueck_id" />
+    </Key>
+    <Property Name="Rueck_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Rueck_Text" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="AGS_id" Type="Int32" />
+    <NavigationProperty Name="Aufgabenstellung" Relationship="Self.FK__Rueckmeld__AGS_i__2C3393D0" FromRole="Rueckmeldung" ToRole="Aufgabenstellung" />
+  </EntityType>
+  <Association Name="FK__Rueckmeld__AGS_i__2C3393D0">
+    <End Role="Aufgabenstellung" Type="Self.Aufgabenstellung" Multiplicity="0..1" />
+    <End Role="Rueckmeldung" Type="Self.Rueckmeldung" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Aufgabenstellung">
+        <PropertyRef Name="AGS_id" />
+      </Principal>
+      <Dependent Role="Rueckmeldung">
+        <PropertyRef Name="AGS_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_InhaltAufgabenstellung">
+    <End Role="Inhalt" Type="Self.Inhalt" Multiplicity="1" />
+    <End Role="Aufgabenstellung" Type="Self.Aufgabenstellung" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Inhalt">
+        <PropertyRef Name="Inhalt_id" />
+      </Principal>
+      <Dependent Role="Aufgabenstellung">
+        <PropertyRef Name="Inhalt_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_KapitelInhalt">
+    <End Role="Kapitel" Type="Self.Kapitel" Multiplicity="1" />
+    <End Role="Inhalt" Type="Self.Inhalt" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kapitel">
+        <PropertyRef Name="Kapitel_id" />
+      </Principal>
+      <Dependent Role="Inhalt">
+        <PropertyRef Name="Kapitel_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="hausarbeit_ENEntitie" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Aufgabenstellung" EntityType="Self.Aufgabenstellung" />
+    <EntitySet Name="Inhalt" EntityType="Self.Inhalt" />
+    <EntitySet Name="Kapitel" EntityType="Self.Kapitel" />
+    <EntitySet Name="Rueckmeldung" EntityType="Self.Rueckmeldung" />
+    <AssociationSet Name="FK__Rueckmeld__AGS_i__2C3393D0" Association="Self.FK__Rueckmeld__AGS_i__2C3393D0">
+      <End Role="Aufgabenstellung" EntitySet="Aufgabenstellung" />
+      <End Role="Rueckmeldung" EntitySet="Rueckmeldung" />
+    </AssociationSet>
+    <AssociationSet Name="fk_InhaltAufgabenstellung" Association="Self.fk_InhaltAufgabenstellung">
+      <End Role="Inhalt" EntitySet="Inhalt" />
+      <End Role="Aufgabenstellung" EntitySet="Aufgabenstellung" />
+    </AssociationSet>
+    <AssociationSet Name="fk_KapitelInhalt" Association="Self.fk_KapitelInhalt">
+      <End Role="Kapitel" EntitySet="Kapitel" />
+      <End Role="Inhalt" EntitySet="Inhalt" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
