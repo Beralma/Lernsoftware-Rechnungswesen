@@ -110,6 +110,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Deutsch.edmx</DependentUpon>
     </Compile>
+    <Compile Include="Deutsch_DB.cs" />
     <Compile Include="Englisch.Context.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -125,6 +126,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Englisch.edmx</DependentUpon>
     </Compile>
+    <Compile Include="English_DB.cs" />
     <Compile Include="Inhalt.cs">
       <DependentUpon>Englisch.tt</DependentUpon>
     </Compile>
