@@ -1,0 +1,89 @@
+﻿<Window x:Class="Hausarbeit.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Hausarbeit"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="800" Width="1200">
+    <Grid x:Name="ParentGrid">
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="90"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="90"/>
+        </Grid.ColumnDefinitions>
+
+
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="350"/>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="250"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <Frame Grid.Column="1" Grid.Row="1" BorderBrush="Blue" 
+               Background="Beige">
+            </Frame>
+            <StackPanel Grid.Column="1" Grid.Row="1" HorizontalAlignment="Center" >
+                <Label FontSize="26" HorizontalAlignment="Center">Hallo und Herzlich Willkommen zu meiner Lernsoftware für Basis-Rechnungswesen.</Label>
+                <TextBlock TextWrapping="Wrap" Margin="100,10,100,0" FontSize="15">In diesem Programm findest du eine Anzahl an Theorie mit einer Mischung von Aufgaben und den passenden Lösungen.
+                Du antwortest in einem vorgegebenen Feld und das Programm liefert dir eine ausführliche Antwort. Alles, was du dafür tun musst, ist dir ein Thema auszusuchen und es kann losgehen.
+                </TextBlock>
+                <Label FontSize="20" Margin="100,40,100,0" HorizontalAlignment="Center">Hello and welcome to my learning software for basic accounting.</Label>
+                <TextBlock TextWrapping="Wrap" Margin="100,10,100,0" FontSize="15">In this program, you will find a selection of theory along with a mixture of exercises and their corresponding solutions.
+                You will respond in a designated field, and the program will provide you with a detailed answer. All you have to do is choose a topic below and we can get started.</TextBlock>
+                <Label FontSize="20" HorizontalAlignment="Center" >Viel Glück! Good luck!</Label>
+            </StackPanel>
+
+            <!-- Grid 3 / tabelle -->
+
+            <Grid Grid.Row="3">
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+
+                </Grid.RowDefinitions>
+
+                <Menu x:Name="menü" 
+                    Width="auto" 
+                    Height="50" 
+                    VerticalAlignment="Top"
+                    HorizontalAlignment="Center"
+                    Background="Beige"
+                    BorderBrush="Blue" 
+                    BorderThickness="1"
+                      FontSize="10"
+                      Grid.Column="0"
+                      >
+
+                    <Menu.ItemsPanel>
+                        <ItemsPanelTemplate>
+                            <VirtualizingStackPanel Orientation="Horizontal" />
+                        </ItemsPanelTemplate>
+                    </Menu.ItemsPanel>
+
+
+
+
+                </Menu>
+
+            </Grid>
+
+
+
+
+
+        </Grid>
+
+
+
+
+    </Grid>
+</Window>
