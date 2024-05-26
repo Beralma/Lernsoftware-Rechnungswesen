@@ -52,3 +52,7 @@ D:\Hausarbeit24\Lernsoftware-Rechnungswesen\hausarbeit\Hausarbeit\Hausarbeit\Hau
 D:\Hausarbeit24\Lernsoftware-Rechnungswesen\hausarbeit\Hausarbeit\Hausarbeit\Hausarbeit\obj\Debug\net6.0-windows\Hausarbeit.pdb
 D:\Hausarbeit24\Lernsoftware-Rechnungswesen\hausarbeit\Hausarbeit\Hausarbeit\Hausarbeit\obj\Debug\net6.0-windows\Hausarbeit.genruntimeconfig.cache
 D:\Hausarbeit24\Lernsoftware-Rechnungswesen\hausarbeit\Hausarbeit\Hausarbeit\Hausarbeit\obj\Debug\net6.0-windows\ref\Hausarbeit.dll
+D:\Hausarbeit24\Lernsoftware-Rechnungswesen\hausarbeit\Hausarbeit\Hausarbeit\Hausarbeit\obj\Debug\net6.0-windows\SubWindow.g.cs
+D:\Hausarbeit24\Lernsoftware-Rechnungswesen\hausarbeit\Hausarbeit\Hausarbeit\Hausarbeit\obj\Debug\net6.0-windows\Window1.g.cs
+D:\Hausarbeit24\Lernsoftware-Rechnungswesen\hausarbeit\Hausarbeit\Hausarbeit\Hausarbeit\obj\Debug\net6.0-windows\SubWindow.baml
+D:\Hausarbeit24\Lernsoftware-Rechnungswesen\hausarbeit\Hausarbeit\Hausarbeit\Hausarbeit\obj\Debug\net6.0-windows\Window1.baml
