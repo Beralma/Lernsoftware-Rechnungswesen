@@ -126,7 +126,8 @@ namespace Hausarbeit
 
             List<int> AgsId = new List<int>();
             selectedAufgaben.ForEach(x => AgsId.Add(x.AgsId));
-            MessageBox.Show(rueckmeldungen.FirstOrDefault(x => x.AgsId == selectedAufgaben[_currentQuestionPosition].AgsId).RueckText);
+            MessageBox.Show(rueckmeldungen.FirstOrDefault(x =>
+            x.AgsId == selectedAufgaben[_currentQuestionPosition].AgsId).RueckText);
         }
 
         //public static async Task Query()
