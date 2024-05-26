@@ -32,21 +32,21 @@ namespace Hausarbeit
             int count = 1;
             if (MyDataContext.mycultureinfo == "de-DE")
             {
-                hausarbeit_DEEntities ctx = new hausarbeit_DEEntities();
+                hausarbeit_DEContext ctx = new hausarbeit_DEContext();
 
-                k = ctx.Kapitel.ToList();
+                k = ctx.Kapitels.ToList();
 
                 foreach (Kapitel kitem in k)
                 {
                     MenuItem m = new MenuItem();
-                    m.Header = kitem.Kapitel_Name;
+                    m.Header = kitem.KapitelName;
                     m.Click += new RoutedEventHandler(chosenKapitel);
                     menuItems.Add(m);
                 }
                 menuItems.ForEach(x => menü.Items.Add(x));
 
             }
-            else
+           /* else
             {
                 hausarbeit_ENEntitie ctx = new hausarbeit_ENEntitie();
 
@@ -61,14 +61,14 @@ namespace Hausarbeit
                 }
                 menuItems.ForEach(x => menü.Items.Add(x));
             }
-
+           */
         }
 
         private void chosenKapitel(object sender, RoutedEventArgs e)
         {
             MenuItem m = (MenuItem)sender;
             // MessageBox.Show((string)m.Header);
-            Window w = new SubWindow(k.FirstOrDefault(x => x.Kapitel_Name.Equals(m.Header)).Kapitel_id, this);
+            Window w = new SubWindow(k.FirstOrDefault(x => x.KapitelName.Equals(m.Header)).KapitelId, this);
             w.Show();
             w.Focus();
             this.Hide();

@@ -36,7 +36,7 @@
             <Frame Grid.Column="1" Grid.Row="3" BorderBrush="Blue" 
                Background="Beige" ></Frame>
 
-            <Button Content="yes/ja" Grid.Row="4" Margin="300,5,500,5" Background="Transparent" FontSize="40" Click="QuestionHelp" />
+            <Button Content="Lösung" Grid.Row="4" Margin="300,5,500,5" Background="Transparent" FontSize="40" Click="QuestionHelp" />
 
             <TextBox Grid.Row="1"  x:Name="Inhalt" TextWrapping="Wrap" ></TextBox>
 
@@ -58,7 +58,9 @@
                 <TextBox Grid.Column="1" Background="Transparent" Margin="0,5" IsReadOnly="True" x:Name="Frage" ></TextBox>
 
                 <TextBox TextWrapping="Wrap" SpellCheck.IsEnabled="True" Name="myTextBox" Background="Transparent" 
-                 Grid.Column="1" Grid.Row="1" Margin="30,5" >Bitte Text hier eingeben / Please enter your text here</TextBox>
+                 Grid.Column="1" Grid.Row="1" Margin="30,5" >Bitte Text hier eingeben
+                    <!--/ Please enter your text here-->
+                </TextBox>
 
 
             </Grid>

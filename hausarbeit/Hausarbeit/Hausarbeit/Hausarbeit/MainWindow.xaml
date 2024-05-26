@@ -27,15 +27,15 @@
             <Frame Grid.Column="1" Grid.Row="1" BorderBrush="Blue" 
                Background="Beige">
             </Frame>
-            <StackPanel Grid.Column="1" Grid.Row="1" HorizontalAlignment="Center" >
+            <StackPanel Grid.Column="1" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center">
                 <Label FontSize="26" HorizontalAlignment="Center">Hallo und Herzlich Willkommen zu meiner Lernsoftware für Basis-Rechnungswesen.</Label>
                 <TextBlock TextWrapping="Wrap" Margin="100,10,100,0" FontSize="15">In diesem Programm findest du eine Anzahl an Theorie mit einer Mischung von Aufgaben und den passenden Lösungen.
                 Du antwortest in einem vorgegebenen Feld und das Programm liefert dir eine ausführliche Antwort. Alles, was du dafür tun musst, ist dir ein Thema auszusuchen und es kann losgehen.
                 </TextBlock>
-                <Label FontSize="20" Margin="100,40,100,0" HorizontalAlignment="Center">Hello and welcome to my learning software for basic accounting.</Label>
-                <TextBlock TextWrapping="Wrap" Margin="100,10,100,0" FontSize="15">In this program, you will find a selection of theory along with a mixture of exercises and their corresponding solutions.
-                You will respond in a designated field, and the program will provide you with a detailed answer. All you have to do is choose a topic below and we can get started.</TextBlock>
-                <Label FontSize="20" HorizontalAlignment="Center" >Viel Glück! Good luck!</Label>
+                <!-- <Label FontSize="20" Margin="100,40,100,0" HorizontalAlignment="Center">Hello and welcome to my learning software for basic accounting.</Label>-->
+                <!--<TextBlock TextWrapping="Wrap" Margin="100,10,100,0" FontSize="15">In this program, you will find a selection of theory along with a mixture of exercises and their corresponding solutions.-->
+                <!--You will respond in a designated field, and the program will provide you with a detailed answer. All you have to do is choose a topic below and we can get started.</TextBlock>-->
+                <Label FontSize="20" HorizontalAlignment="Center" >Viel Glück! <!--Good luck!--></Label>
             </StackPanel>
 
             <!-- Grid 3 / tabelle -->

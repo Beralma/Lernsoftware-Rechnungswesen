@@ -23,7 +23,7 @@ namespace Hausarbeit
         List<Aufgabenstellung> selectedAufgaben = new List<Aufgabenstellung>();
         List<Inhalt> selectedInhalt = new List<Inhalt>();
         List<Rueckmeldung> rueckmeldungen = new List<Rueckmeldung>();
-        hausarbeit_DEEntities ctx;
+        hausarbeit_DEContext ctx;
 
         Window _mainWindow;
 
@@ -35,27 +35,27 @@ namespace Hausarbeit
 
             if (MyDataContext.mycultureinfo == "de-DE")
             {
-                ctx = new hausarbeit_DEEntities();
+                ctx = new hausarbeit_DEContext();
 
                 //var Task = Query();
                 //Task.Wait();
-                selectedInhalt = ctx.Inhalt.Where(x => x.Kapitel_id == selectedKapitel).ToList();
+                selectedInhalt = ctx.Inhalts.Where(x => x.KapitelId == selectedKapitel).ToList();
                 // selectedInhalt= selectedInhalt.;
                 List<int> k = new List<int>();
 
-                selectedInhalt.ToList().ForEach(x => k.Add(x.Inhalt_id));
+                selectedInhalt.ToList().ForEach(x => k.Add(x.InhaltId));
 
 
 
-                selectedAufgaben = ctx.Aufgabenstellung.Where(x => x.Inhalt_id == selectedKapitel).ToList();
+                selectedAufgaben = ctx.Aufgabenstellungs.Where(x => x.InhaltId == selectedKapitel).ToList();
 
-                rueckmeldungen = ctx.Rueckmeldung.ToList();
+                rueckmeldungen = ctx.Rueckmeldungs.ToList();
 
 
-                Inhalt.Text = selectedInhalt.First().Inhalt_Text;
-                Frage.Text = selectedAufgaben.First().AGS_Text;
+                Inhalt.Text = selectedInhalt.First().InhaltText;
+                Frage.Text = selectedAufgaben.First().AgsText;
             }
-            else
+            /*else
             {
 
                 hausarbeit_ENEntitie ctx = new hausarbeit_ENEntitie();
@@ -75,7 +75,7 @@ namespace Hausarbeit
 
                 Inhalt.Text = selectedInhalt.First().Inhalt_Text;
                 Frage.Text = selectedAufgaben.First().AGS_Text;
-            }
+            }*/
             _mainWindow = mainWindow;
         }
 
@@ -86,7 +86,7 @@ namespace Hausarbeit
                 _currentInhalt--;
             }
 
-            Inhalt.Text = selectedInhalt[_currentInhalt].Inhalt_Text;
+            Inhalt.Text = selectedInhalt[_currentInhalt].InhaltText;
         }
 
         private void Forth(object sender, RoutedEventArgs e)
@@ -96,7 +96,7 @@ namespace Hausarbeit
                 _currentInhalt++;
             }
 
-            Inhalt.Text = selectedInhalt[_currentInhalt].Inhalt_Text;
+            Inhalt.Text = selectedInhalt[_currentInhalt].InhaltText;
         }
 
         private void zuruck(object sender, RoutedEventArgs e)
@@ -117,7 +117,7 @@ namespace Hausarbeit
                 _currentQuestionPosition = 0;
             }
 
-            Frage.Text = selectedAufgaben.ElementAt(_currentQuestionPosition).AGS_Text;
+            Frage.Text = selectedAufgaben.ElementAt(_currentQuestionPosition).AgsText;
 
 
         }
@@ -125,8 +125,8 @@ namespace Hausarbeit
         {
 
             List<int> AgsId = new List<int>();
-            selectedAufgaben.ForEach(x => AgsId.Add(x.AGS_id));
-            MessageBox.Show(rueckmeldungen.FirstOrDefault(x => x.AGS_id == selectedAufgaben[_currentQuestionPosition].AGS_id).Rueck_Text);
+            selectedAufgaben.ForEach(x => AgsId.Add(x.AgsId));
+            MessageBox.Show(rueckmeldungen.FirstOrDefault(x => x.AgsId == selectedAufgaben[_currentQuestionPosition].AgsId).RueckText);
         }
 
         //public static async Task Query()

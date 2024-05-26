@@ -33,11 +33,15 @@ namespace Hausarbeit
             {
                 MyDataContext.switchCulture("de-DE");
             }
-            else
+            /*else
             {
                 MyDataContext.switchCulture("en-US");
             }
-
+            */
+            else
+            {
+                Console.WriteLine("Keine Datenbank vorhanden");
+            }
             Window m = new MainWindow();
             m.Show();
             this.Close();

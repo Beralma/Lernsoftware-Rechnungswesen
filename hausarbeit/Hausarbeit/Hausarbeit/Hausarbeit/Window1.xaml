@@ -9,11 +9,11 @@
     <Grid>
         <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
             <Label Content="Welche Sprache möchtest du verwenden?" />
-            <Label Content="Which language do you want to use? "/>
+            <!--<Label Content="Which language do you want to use? "/> -->
             <Button Content="Deutsch" BorderThickness="1" BorderBrush="Black"
                     Width="auto" Height="auto" FontSize="15" Click="LanguageChange" />
-            <Button Content="English" BorderThickness="1" BorderBrush="Black"
-                    Width="auto" Height="auto" FontSize="15" Click="LanguageChange" />
+            <!--<Button Content="English" BorderThickness="1" BorderBrush="Black"
+                    Width="auto" Height="auto" FontSize="15" Click="LanguageChange" />-->
         </StackPanel>
     </Grid>
 </Window>
