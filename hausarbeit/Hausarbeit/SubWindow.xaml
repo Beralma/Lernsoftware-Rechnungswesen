@@ -6,16 +6,7 @@
         xmlns:local="clr-namespace:Hausarbeit"
         mc:Ignorable="d"
         Title="SubWindow" Height="800" Width="1200">
-    <Window.Background>
-        <RadialGradientBrush>
-            <GradientStop Color="#FF042F50" Offset="0.159"/>
-            <GradientStop Color="#FF007FF5" Offset="1"/>
-            <GradientStop Color="#FF012EBB" Offset="0.698"/>
-            <GradientStop Color="#FF1B66F3" Offset="0.353"/>
-            <GradientStop Color="#FF2B3EE2" Offset="0.547"/>
-            <GradientStop Color="#FF1B59F1" Offset="0.86"/>
-        </RadialGradientBrush>
-    </Window.Background>
+    
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="100"/>
@@ -40,12 +31,14 @@
                 <RowDefinition Height="*"/>
             </Grid.RowDefinitions>
 
-            <Frame Grid.Column="1" Grid.Row="1" BorderBrush="Purple" Background="PeachPuff"  ></Frame>
-            <Frame Grid.Column="1" Grid.Row="3" BorderBrush="Purple" Background="#FF225FF5" ></Frame>
+            <Frame Grid.Column="1" Grid.Row="1" BorderBrush="Blue" 
+               Background="Beige" ></Frame>
+            <Frame Grid.Column="1" Grid.Row="3" BorderBrush="Blue" 
+               Background="Beige" ></Frame>
 
             <Button Content="yes/ja" Grid.Row="4" Margin="300,5,500,5" Background="Transparent" FontSize="40" Click="QuestionHelp" />
 
-            <TextBox Grid.Row="1"  x:Name="Inhalt"></TextBox>
+            <TextBox Grid.Row="1"  x:Name="Inhalt" TextWrapping="Wrap" ></TextBox>
 
             <Button Content=">" Grid.Row="4" Margin="500,5,300,5" Background="Transparent" FontSize="40" Click="NextQuestion" />
 

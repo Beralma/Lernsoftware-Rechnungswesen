@@ -78,14 +78,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Hausarbeit.exe" size="51680">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Hausarbeit.exe" size="50144">
       <assemblyIdentity name="Hausarbeit" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>5EI8zEjIvledaVZt0PNSGkT3zpKXKOWr3eoM++iGQMA=</dsig:DigestValue>
+        <dsig:DigestValue>YAVh7xMeyzE7rzspSGpQbml8hGVSj7E+HSP0AtUi2eQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
