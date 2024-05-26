@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Hausarbeit.exe" version="1.0.0.3" publicKeyToken="375a272bf7c4139b" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Hausarbeit" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Hausarbeit.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC-Manifestoptionen
+          Wenn Sie die Zugangsebene für das Windows-Benutzerkonto ändern möchten, ersetzen Sie den 
+          requestedExecutionLevel-Knoten durch eines der folgenden Elemente.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Löschen Sie den requestedExecutionLevel-Knoten, wenn Sie 
+         zum Gewährleisten der Abwärtskompatibilität die Datei- und Registrierungsvirtualisierung verwenden möchten.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EntityFramework.dll" size="5225168">
+      <assemblyIdentity name="EntityFramework" version="6.0.0.0" publicKeyToken="B77A5C561934E089" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>nCD7KthqdgsMauvZMByQCYkdAq4UcgqTkmwLU1uK0Js=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="de\EntityFramework.resources.dll" size="387280">
+      <assemblyIdentity name="EntityFramework.resources" version="6.0.0.0" publicKeyToken="B77A5C561934E089" language="de" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>URRw1xUw80rLgUkVNq8aywljn2JfDELuaECszkPlDgo=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EntityFramework.SqlServer.dll" size="622288">
+      <assemblyIdentity name="EntityFramework.SqlServer" version="6.0.0.0" publicKeyToken="B77A5C561934E089" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>4OEmw7inupUB0D+Z1Upcu9F0vOy2FwCYq0zBIZ8n+TM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Hausarbeit.exe" size="50144">
+      <assemblyIdentity name="Hausarbeit" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>YAVh7xMeyzE7rzspSGpQbml8hGVSj7E+HSP0AtUi2eQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Deutsch.Context.tt" size="22931">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>M73kMJY+8HQgmppDNeg9ibWHkTtdGQnrnHFo4Hhsvog=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Deutsch.tt" size="25276">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>X6tyjVaMhSQkV/pyPweHPvnWXE46UWoQZ8KI6FzXsbs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Englisch.Context.tt" size="22932">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>tpIX5308FXNXGoPkvvvtNYnO8OxUiupZkJobCLcxte8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Englisch.tt" size="25277">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>fF2n29wcb/32wGHx19/oj7S+q6NSe2e4C1EEC1SCCtE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Hausarbeit.exe.config" size="2820">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>5oH4pdKVLyTZo2PQDMjIGLIhjOfdsqFbrPZCBqf7EyI=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-6I7D8LE\Sanin" issuerKeyHash="3628402d73d18d1cee27fdc4db51b9cb2b1607ae" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>uGXMg3yVfPuzPSscSTGM6ZDabJlUj+Zs/HqJBRay3AU=</DigestValue></Reference></SignedInfo><SignatureValue>p501JIOdihljanBQuUQ43IjNA56x5t4xcwDi8ndXD86DOMDPDChp/cfBTqjIRjVxrtCheKmtuTLqO0Kn/XNIKv51V6UkbqH3eZ2fSBCtl3ZriB/TkAQc+8PkEgrOM1GjvChuWy8v3ouKOTAD3F/e23loP0B3OGIxQOLEsuLLSGw=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>48MiKDeRrB6HKEEOkXh0Dk1AK2+PBoLlFppn6aV1v6p4u4zDarcmV3bPWx0IXNi9ttTCgtAz2m/2DYRG6xly/xxyQzflEvnYD6GW9AXkAZZSRIIQKBq1kibyuPpzg8iHqZd/cDkQoHG2TQz1FjaujxFawCIEJSVgypisMGNAo5E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="05dcb21605897afc6ce68f54996cda90e98c31491c2b3db3fb7c957c83cc65b8" Description="" Url=""><as:assemblyIdentity name="Hausarbeit.exe" version="1.0.0.3" publicKeyToken="375a272bf7c4139b" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-6I7D8LE\Sanin</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>YDRaglGcc7+QsDj/wg56Y50HdOit4vWPFoD1ROcLN/Y=</DigestValue></Reference></SignedInfo><SignatureValue>PeW6dLTxgEbX6kEgDivhFmQXyPl8HEVXen9P6KfnbfbVJgqXOAoY9Ex6XGzMrm5sL3wPn7H3NIYr36M9R1HLPDSnGN5BzLwKZtITd2uURINTGO9OWsifUxGrqtU1ZgI7xsCDIqEqyrZ0mZZNcS38ZKp4pp+YD7rImnBfr0L0UwA=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>48MiKDeRrB6HKEEOkXh0Dk1AK2+PBoLlFppn6aV1v6p4u4zDarcmV3bPWx0IXNi9ttTCgtAz2m/2DYRG6xly/xxyQzflEvnYD6GW9AXkAZZSRIIQKBq1kibyuPpzg8iHqZd/cDkQoHG2TQz1FjaujxFawCIEJSVgypisMGNAo5E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQMwpTLU/ca55HaL6npF0IjTANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtADYASQA3AEQAOABMAEUAXABTAGEAbgBpAG4wHhcNMjMwNjExMjMzMzE0WhcNMjQwNjExMDUzMzE0WjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtADYASQA3AEQAOABMAEUAXABTAGEAbgBpAG4wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAOPDIig3kawehyhBDpF4dA5NQCtvjwaC5RaaZ+mldb+qeLuMw2q3Jld2z1sdCFzYvbbUwoLQM9pv9g2ERusZcv8cckM35RL52A+hlvQF5AGWUkSCECgatZIm8rj6c4PIh6mXf3A5EKBxtk0M9RY2ro8RWsAiBCUlYMqYrDBjQKORAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAsXrw8RuHADByf6bCtRxQakeZi7KvEYh4x/b6H77fvPun5RwsdgvpR8r7IYpV0/3Hc4toNgePky//1iFvOSeXKClqy8v/w0OsDccI04kjkFad4umV5AuDyxxWWn2F+iyOArrkWlDh7gnsTmB0cwbEnW8dUKJJUDbgwgEAq4TdyIE=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
