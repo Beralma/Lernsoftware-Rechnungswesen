@@ -55,27 +55,27 @@ namespace Hausarbeit
                 Inhalt.Text = selectedInhalt.First().InhaltText;
                 Frage.Text = selectedAufgaben.First().AgsText;
             }
-            /*else
+            else
             {
 
-                hausarbeit_ENEntitie ctx = new hausarbeit_ENEntitie();
-                this.DataContext = ctx.Kapitel.Local;
+               // hausarbeit_ENEntitie ctx = new hausarbeit_ENEntitie();
+                //this.DataContext = ctx.Kapitel.Local;
 
-                selectedInhalt = ctx.Inhalt.Where(x => x.Kapitel_id == selectedKapitel).ToList();
+                //selectedInhalt = ctx.Inhalts.Where(x => x.KapitelId == selectedKapitel).ToList();
                 List<int> k = new List<int>();
 
-                selectedInhalt.ToList().ForEach(x => k.Add(x.Inhalt_id));
+                selectedInhalt.ToList().ForEach(x => k.Add(x.InhaltId));
 
 
-                selectedAufgaben = ctx.Aufgabenstellung.Where(x => x.Inhalt_id == selectedKapitel).ToList();
+
+                selectedAufgaben = ctx.Aufgabenstellungs.Where(x => x.InhaltId == selectedKapitel).ToList();
+
+                rueckmeldungen = ctx.Rueckmeldungs.ToList();
 
 
-                rueckmeldungen = ctx.Rueckmeldung.ToList();
-
-
-                Inhalt.Text = selectedInhalt.First().Inhalt_Text;
-                Frage.Text = selectedAufgaben.First().AGS_Text;
-            }*/
+                Inhalt.Text = selectedInhalt.First().InhaltText;
+                Frage.Text = selectedAufgaben.First().AgsText;
+            }
             _mainWindow = mainWindow;
         }
 
